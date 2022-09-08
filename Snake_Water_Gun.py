@@ -67,7 +67,7 @@ while(True):
     if s>c:
         print("CONGRATULATIONS! YOU'VE WON THE GAME ")
     elif s==c:
-        print("GAME DRAW")
+        print("GAME TIE")
     else:
         print("BETTER TRY NEXT TIME")
     print("----------------GAME OVER---------------------")
